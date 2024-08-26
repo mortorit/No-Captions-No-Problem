@@ -1,0 +1,14 @@
+numpy
+open_clip_torch
+pandas
+Pillow
+scikit_learn==1.4.2
+scipy==1.13.0
+timm
+torch
+torch_geometric
+torch_points3d
+torch_points_kernels
+torch_scatter
+torchvision
+tqdm
